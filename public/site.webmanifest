@@ -1,7 +1,6 @@
 {
   "name": "Squab Productivity App",
   "short_name": "Squab",
-  "start_url": ".",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: PT Mono
+- Font Author: Copyright © 2010 ParaType Inc., ParaType Ltd. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/ptmono/v13/9oRONYoBnWILk-9ArCg5MtPyAcg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

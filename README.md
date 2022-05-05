@@ -11,7 +11,7 @@ A simple sign in and sing up template built with React and Material UI. With com
 
 ![Product Preview][product-preview]
 
-- [Demo](https://sqaub-landing-page.vercel.app/home)
+- [Demo](https://auth-mui-template.vercel.app/)
 
 ### Built With
 
