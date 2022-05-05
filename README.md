@@ -34,7 +34,7 @@ _To get started with the project._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/eric-ricky/sqaub-landing-page.git
+   git clone https://github.com/eric-ricky/auth-mui-template.git
    ```
 2. Install NPM packages
    ```sh
@@ -53,14 +53,14 @@ Eric Ricky - [@ricky_erickk](https://twitter.com/ricky_erickk)
 
 Linked In - [Eric Otieno](linkedin.com/in/rick-otieno-7532b01b9)
 
-Project Link: [https://github.com/eric-ricky/sqaub-landing-page](https://github.com/eric-ricky/sqaub-landing-page)
+Project Link: [https://github.com/eric-ricky/sqaub-landing-page](https://github.com/eric-ricky/auth-mui-template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: LICENSE.txt
+[license-url]: https://github.com/eric-ricky/auth-mui-template
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/rick-otieno-7532b01b9
 [product-preview]: preview.jpeg
