@@ -60,7 +60,7 @@ Project Link: [https://github.com/eric-ricky/sqaub-landing-page](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/eric-ricky/auth-mui-template
+[license-url]: LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/rick-otieno-7532b01b9
 [product-preview]: preview.jpeg
