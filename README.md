@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-A simple sign in and sing up template built with React and Material UI. With complete input validation using formik and yup, making your life easy.
+A simple sign in and sign up template built with React and Material UI. With complete input validation using formik and yup, making your life easy.
 
 ![Product Preview][product-preview]
 
